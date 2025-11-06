@@ -16,7 +16,11 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Astro        10 mins         ████████████▒░░░░░░░░░░░░   48.81 %
+Markdown     5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.49 %
+JavaScript   4 mins          ██████░░░░░░░░░░░░░░░░░░░   23.34 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
