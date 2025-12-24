@@ -16,11 +16,11 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       8 hrs 29 mins   ██████████████████████▒░░   89.07 %
-TOML         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python                        15 hrs          ██████████████████████▓░░   90.99 %
+TOML                          50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+CSV                           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Markdown                      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Text                          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
