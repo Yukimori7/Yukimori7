@@ -16,11 +16,11 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         32 mins         ███████████▒░░░░░░░░░░░░░   45.90 %
-JSON         17 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
-Markdown     11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
-TypeScript   8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+TypeScript   32 mins         ████████▓░░░░░░░░░░░░░░░░   34.12 %
+YAML         32 mins         ████████▓░░░░░░░░░░░░░░░░   34.11 %
+JSON         17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
+Markdown     11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
