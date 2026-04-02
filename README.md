@@ -16,9 +16,8 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```txt
-fish       34 mins               ███████████████▒░░░░░░░░░   61.30 %
-Other      14 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
-Markdown   7 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Other   14 mins               ███████████████░░░░░░░░░░   59.38 %
+fish    9 mins                ██████████░░░░░░░░░░░░░░░   40.62 %
 ```
 
 <!--END_SECTION:waka-->
