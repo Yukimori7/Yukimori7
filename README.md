@@ -16,11 +16,11 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```txt
-Astro         2 hrs 38 mins         █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-TypeScript    2 hrs 37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
-YAML          1 hr 53 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-Other         1 hr 46 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-Markdown      1 hr 10 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Astro        1 hr 45 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.58 %
+Markdown     1 hr 7 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
+TypeScript   1 hr 6 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Other        56 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+Python       39 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
 ```
 
 <!--END_SECTION:waka-->
