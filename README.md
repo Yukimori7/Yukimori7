@@ -16,7 +16,11 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TOML       1 hr 49 mins          ███████████░░░░░░░░░░░░░░   44.02 %
+Other      1 hr 36 mins          █████████▓░░░░░░░░░░░░░░░   38.85 %
+JSON       39 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+Text       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
