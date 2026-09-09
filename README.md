@@ -16,11 +16,11 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```txt
-TOML       2 hrs 1 min           ███████████▓░░░░░░░░░░░░░   46.32 %
-Other      1 hr 36 mins          █████████▒░░░░░░░░░░░░░░░   36.83 %
-JSON       39 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-Markdown   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Text       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+TOML       2 hrs 1 min           ███████████░░░░░░░░░░░░░░   44.66 %
+Other      1 hr 46 mins          █████████▓░░░░░░░░░░░░░░░   39.10 %
+JSON       39 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+Markdown   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Text       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
