@@ -16,9 +16,7 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```txt
-TOML       11 mins               █████████████░░░░░░░░░░░░   51.48 %
-Other      9 mins                ██████████▒░░░░░░░░░░░░░░   41.77 %
-Markdown   1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Other   9 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
