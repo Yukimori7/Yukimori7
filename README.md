@@ -16,9 +16,7 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```txt
-fish         2 hrs 9 mins          █████████████████████████   99.81 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+fish   1 hr 34 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
