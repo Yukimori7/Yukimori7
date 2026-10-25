@@ -16,10 +16,7 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        35 mins               ███████████████████████▒░   93.22 %
-CSS          1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-TypeScript   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Astro   14 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
