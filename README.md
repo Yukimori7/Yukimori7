@@ -23,9 +23,9 @@ No activity tracked
 
 ### 👻 Year and Life
 <!-- progress starts -->
-⏳ Year progress ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 87.5%   
+⏳ Year progress ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 87.8%   
 😱 Life progress ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░ 39.6%   
-⏰ Update on 2026-11-16 07:39:30
+⏰ Update on 2026-11-17 08:48:40
 
 <!-- progress ends -->
 
